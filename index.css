@@ -1,0 +1,26 @@
+body{
+  background-color: rgba(233, 122, 168, 0.486);
+}
+
+.header{
+  display: grid;
+  grid-template-columns: 70% 30%; 
+  border-bottom:dotted;
+  height:  80px;
+  /* background-color: darkslateblue; */
+  padding: 2%;
+  }
+  
+  .Main{
+    
+    padding : 10% 10% 10% 10%;
+    display: grid;
+    grid-template-columns: 50% 50%; 
+
+  }
+  .result
+  {
+    background-color: white;
+    width: 40%;
+    float: right;
+  }
